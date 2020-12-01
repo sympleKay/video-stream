@@ -194,6 +194,10 @@ video {
     .navbar {
         height: 110px;
     }
+    
+    .navbar h1 {
+        text-align: center;
+    }
 
     .navbar .flex {
         flex-direction: column;
