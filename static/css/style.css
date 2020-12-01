@@ -190,7 +190,7 @@ video {
 
 /* Media screen */
 
-@media (max-width: 335px) {
+@media (max-width: 268px) {
     .navbar {
         height: 110px;
     }
