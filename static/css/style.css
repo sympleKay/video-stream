@@ -192,7 +192,7 @@ video {
 
 @media (max-width: 768px) {
     .navbar {
-        height: 110px;
+        height: 180px;
     }
     
     .navbar h1 {
